@@ -1,0 +1,4 @@
+*.aux
+*.log
+*.nav
+languages_tools/presentation/*.log
