@@ -21,7 +21,7 @@ As some of you know, CS Women is running a technical workshop series:
 
 >http://umasscswomen.weebly.com/cs-women-awarded-ncwit-student-seed-funding.html
 
-The target audience are _all_ (not just female-identified) first-year graduate students, however, *all students are invited to attend and participate*. On *Tuesday, October 20* in *CS 150/151* from *4pm--6pm*, we will be holding a *Bootcamp/Office Hours* to help students get set up. You can drop in (don't forget your laptop!) at any time during that window. If you cannot make the office hours, we will be posting instructions for you to get set up at your own leisure after we run the office hours. The *first workshop* will be on *October 27th*, and the topic is *git*. Starting with the git workshop, we will be serving light refreshments.
+The target audience are _all_ (not just female-identified) first-year graduate students, however, **all students are invited to attend and participate**. On **Tuesday, October 20** in **CS 150/151** from **4pm--6pm**, we will be holding a **Bootcamp/Office Hours** to help students get set up. You can drop in (don't forget your laptop!) at any time during that window. If you cannot make the office hours, we will be posting instructions for you to get set up at your own leisure after we run the office hours. The **first workshop** will be on **October 27th**, and the topic is **git**. Starting with the git workshop, we will be serving light refreshments.
 
 Please feel free to forward this email to anyone who might be interested. We look forward to seeing you!
 
