@@ -4,3 +4,6 @@
 [submodule "unix"]
 	path = unix
 	url = git@github.com:CSWomenUMass/unix.git
+[submodule "bootcamp"]
+	path = bootcamp
+	url = git@github.com:CSWomenUMass/bootcamp.git
