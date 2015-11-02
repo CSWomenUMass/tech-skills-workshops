@@ -1,3 +1,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/CSWomenUMass/git
+[submodule "unix"]
+	path = unix
+	url = git@github.com:CSWomenUMass/unix.git
